@@ -1,0 +1,14 @@
+debug
+* padding:8
+|
+| fill:x
+---
+'High Scores' colspan:2 spacingBottom:30
+---
+'Level1' [episode1HighScore]
+---
+'Level2' [episode2HighScore]
+---
+'Level3' [episode3HighScore]
+---
+[backButton] colspan:2 width:300 spacingTop:30
